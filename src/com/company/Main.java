@@ -27,7 +27,7 @@ public class Main {
 //
 //
 //        }
-        int monthNumber = 4;
+        int monthNumber = 1;
         switch (monthNumber) {
             case 1:
             case 2:
